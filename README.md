@@ -35,4 +35,4 @@ python overlay.py --interval 10 --bg "#1e1e2e" --fg "#a6e3a1" --font-size 16 --c
 - **Move**: Click and drag the widget anywhere on the screen.
 - **Exit**: Press `Esc` or `q` while the widget is focused, or close it from the terminal.
 
-<!-- verified: 2026-09-14 -->
+<!-- verified: 2026-09-15 -->
